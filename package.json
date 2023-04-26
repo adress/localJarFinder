@@ -1,0 +1,26 @@
+{
+  "name": "localjarfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "@types/xml2js": "^0.4.11",
+    "@types/yargs": "^17.0.24",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "@typescript-eslint/parser": "^5.59.1",
+    "eslint": "^8.39.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xml2js": "^0.5.0",
+    "yargs": "^17.7.1"
+  }
+}
